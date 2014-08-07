@@ -12,7 +12,7 @@ puts "Is it true that 3 + 2 < 5 - 7"
 puts 3.0 + 2.0 < 5.0 - 7.0
 # 3 + 2 == 5
 puts "What is 3 + 2? #{3.0 + 2.0}"
-# 5- 7 == -2
+# 5 - 7 == -2
 puts "What is 5 - 7? #{5.0 - 7.0}"
 puts "Oh, that's why it's false."
 puts "How about some more"
